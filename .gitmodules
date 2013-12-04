@@ -1,0 +1,3 @@
+[submodule "farming_plus"]
+	path = farming_plus
+	url = https://github.com/PilzAdam/farming_plus
