@@ -31,3 +31,6 @@
 [submodule "Minetest-WorldEdit"]
 	path = Minetest-WorldEdit
 	url = https://github.com/Uberi/Minetest-WorldEdit
+[submodule "homedecor"]
+	path = homedecor
+	url = https://github.com/VanessaE/homedecor
