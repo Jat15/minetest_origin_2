@@ -22,3 +22,6 @@
 [submodule "calinou_mods"]
 	path = calinou_mods
 	url = https://github.com/Calinou/calinou_mods
+[submodule "inventory_plus"]
+	path = inventory_plus
+	url = https://github.com/Zeg9/minetest-inventory_plus
