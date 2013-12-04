@@ -28,3 +28,6 @@
 [submodule "minetest-zcg"]
 	path = minetest-zcg
 	url = https://github.com/Zeg9/minetest-zcg
+[submodule "Minetest-WorldEdit"]
+	path = Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit
