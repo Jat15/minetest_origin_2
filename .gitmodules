@@ -19,3 +19,6 @@
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/Jeija/minetest-mod-mesecons
+[submodule "calinou_mods"]
+	path = calinou_mods
+	url = https://github.com/Calinou/calinou_mods
