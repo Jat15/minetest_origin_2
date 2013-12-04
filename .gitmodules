@@ -10,3 +10,6 @@
 [submodule "animals_modpack"]
 	path = animals_modpack
 	url = https://github.com/sapier/animals_modpack
+[submodule "carts"]
+	path = carts
+	url = https://github.com/PilzAdam/carts
