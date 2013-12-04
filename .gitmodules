@@ -7,3 +7,6 @@
 [submodule "plantlife"]
 	path = plantlife
 	url = https://github.com/VanessaE/plantlife
+[submodule "animals_modpack"]
+	path = animals_modpack
+	url = https://github.com/sapier/animals_modpack
