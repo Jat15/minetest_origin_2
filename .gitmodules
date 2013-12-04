@@ -4,3 +4,6 @@
 [submodule "food"]
 	path = food
 	url = https://github.com/rubenwardy/food
+[submodule "plantlife"]
+	path = plantlife
+	url = https://github.com/VanessaE/plantlife
