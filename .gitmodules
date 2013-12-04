@@ -13,3 +13,6 @@
 [submodule "carts"]
 	path = carts
 	url = https://github.com/PilzAdam/carts
+[submodule "boats"]
+	path = boats
+	url = https://github.com/PilzAdam/boats
