@@ -25,3 +25,6 @@
 [submodule "inventory_plus"]
 	path = inventory_plus
 	url = https://github.com/Zeg9/minetest-inventory_plus
+[submodule "minetest-zcg"]
+	path = minetest-zcg
+	url = https://github.com/Zeg9/minetest-zcg
