@@ -1,5 +1,7 @@
 dofile(minetest.get_modpath("mobs").."/api.lua")
 
+--[[
+
 mobs:register_mob("mobs:dirt_monster", {
 	type = "monster",
 	hp_max = 7,
@@ -171,6 +173,10 @@ mobs:register_mob("mobs:tree_monster", {
 
 mobs:register_spawn("mobs:tree_monster", {"default:leaves", "default:jungleleaves"}, 3, -1, 7000, 3, 31000)
 
+]]--
+
+--*******************************************
+
 mobs:register_mob("mobs:sheep", {
 	type = "animal",
 	hp_max = 5,
@@ -242,6 +248,8 @@ mobs:register_mob("mobs:sheep", {
 		end
 	end,
 })
+
+
 mobs:register_spawn("mobs:sheep", {"default:dirt_with_grass"}, 20, 8, 9000, 1, 31000)
 
 minetest.register_craftitem("mobs:meat_raw", {
@@ -261,6 +269,10 @@ minetest.register_craft({
 	recipe = "mobs:meat_raw",
 	cooktime = 5,
 })
+
+--*****************************************************************************************
+
+--[[
 
 mobs:register_mob("mobs:rat", {
 	type = "animal",
@@ -443,3 +455,4 @@ mobs:register_arrow("mobs:fireball", {
 if minetest.setting_get("log_mods") then
 	minetest.log("action", "mobs loaded")
 end
+]]--
