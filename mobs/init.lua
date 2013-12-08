@@ -1,6 +1,6 @@
 dofile(minetest.get_modpath("mobs").."/api.lua")
 
---[[
+
 
 mobs:register_mob("mobs:dirt_monster", {
 	type = "monster",
@@ -173,7 +173,7 @@ mobs:register_mob("mobs:tree_monster", {
 
 mobs:register_spawn("mobs:tree_monster", {"default:leaves", "default:jungleleaves"}, 3, -1, 7000, 3, 31000)
 
-]]--
+
 
 --*******************************************
 
@@ -272,7 +272,7 @@ minetest.register_craft({
 
 --*****************************************************************************************
 
---[[
+
 
 mobs:register_mob("mobs:rat", {
 	type = "animal",
@@ -455,4 +455,4 @@ mobs:register_arrow("mobs:fireball", {
 if minetest.setting_get("log_mods") then
 	minetest.log("action", "mobs loaded")
 end
-]]--
+
