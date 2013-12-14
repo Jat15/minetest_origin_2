@@ -37,3 +37,6 @@
 [submodule "minetest-survival_modpack"]
 	path = minetest-survival_modpack
 	url = https://github.com/kaeza/minetest-survival_modpack
+[submodule "arrow_signs"]
+	path = arrow_signs
+	url = https://bitbucket.org/adrido/arrow_signs.git
