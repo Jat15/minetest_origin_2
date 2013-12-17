@@ -43,3 +43,6 @@
 [submodule "hops"]
 	path = hops
 	url = https://github.com/Jat15/hops
+[submodule "beer"]
+	path = beer
+	url = https://github.com/Jat15/beer
