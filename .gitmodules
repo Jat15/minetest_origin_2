@@ -40,3 +40,6 @@
 [submodule "arrow_signs"]
 	path = arrow_signs
 	url = https://bitbucket.org/adrido/arrow_signs.git
+[submodule "hops"]
+	path = hops
+	url = https://github.com/Jat15/hops
